@@ -44,8 +44,8 @@ const Dashboard: NextPage<DashboardProps> = ({ email = '' }) => {
         <Box component="footer" sx={{ marginTop: 4, textAlign: 'center' }}>
           <Typography variant="body2" color="text.secondary">
             {'Direitos Autorais © '}
-            <a href="https://mui.com/" style={{ color: 'inherit' }}>
-              Seu Site
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style={{ color: 'inherit' }}>
+              Não clique aqui, sob hipótese alguma! ( ͡° ͜ʖ ͡°)
             </a>{' '}
             {new Date().getFullYear()}
             {'.'}
